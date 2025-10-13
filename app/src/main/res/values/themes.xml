@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme -->
+    <style name="Base.Theme.GamerApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_pink</item>
+        <item name="colorPrimaryVariant">@color/primary_pink_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_pink</item>
+    </style>
+
+    <style name="Theme.GamerApp" parent="Base.Theme.GamerApp" />
+</resources>
